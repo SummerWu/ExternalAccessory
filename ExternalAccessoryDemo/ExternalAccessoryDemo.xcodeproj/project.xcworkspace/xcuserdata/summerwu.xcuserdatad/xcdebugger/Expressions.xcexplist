@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[RootVC tableView:didSelectRowAtIndexPath:]:RootVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[LogVC shareInstance].logText">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SelectCell updateCell:]:SelectCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SelectVC viewDidLoad]:SelectVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.eaName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SelectVC tableView:cellForRowAtIndexPath:]:SelectVC.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
